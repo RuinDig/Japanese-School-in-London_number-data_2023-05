@@ -7,3 +7,5 @@ http://www.thejapaneseschool.ltd.uk/nihonjingakko/page/gakkougaiyou/0data/Gaiyou
 * 2007年～2010年はデータ未入手
 
 ![Japanese-School-in-London_number-data_2023-05](https://github.com/RuinDig/Japanese-School-in-London_number-data_2023-05/assets/20723919/f1d9f0bb-f344-4f9f-bf3a-22ac67d1f679)
+
+![Japanese-School-in-London_number-data_2023-05](https://github.com/RuinDig/Japanese-School-in-London_number-data_2023-05/assets/20723919/7c4cc7bc-79d4-49af-a284-660b08230ebf)
