@@ -5,6 +5,7 @@
 http://www.thejapaneseschool.ltd.uk/nihonjingakko/page/gakkougaiyou/0data/Gaiyou/keieihoshin2023.pdf  
 (2011年～2022年は各年4月末時点の数字)
 * 2007年～2010年はデータ未入手
+* 2007年以降の教員数のデータは未入手
 
 ![Japanese-School-in-London_number-data_2023-05](https://github.com/RuinDig/Japanese-School-in-London_number-data_2023-05/assets/20723919/efa24252-6c00-4931-9142-42ff9376c64d)
 
